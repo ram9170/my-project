@@ -1,0 +1,32 @@
+/*change brand font*/
+.navbar-brand{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+}
+/*changer navigation color*/
+.navbar mymenu .custom-nav .nav-item a{
+    color: white;
+}
+/*changer navigation hover color*/
+.navbar mymenu .custom-nav .nav-item a:hover{
+    color:darkblue;
+}
+
+/*make Header image Rispansive*/
+.back-image{
+background-size:cover;
+background-position: center center;
+background-repeat: no-repeat;
+min-height: 70vh;
+border-radius: 0px; 
+margin-top: 74px;
+}
+
+/* Change link color*/
+a{
+    color:red;
+}
+a:hover{
+    color: crimson;
+}
